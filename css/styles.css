@@ -1,0 +1,13 @@
+body {
+    background-color: #ffffff;
+    
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.form-group label {
+    font-weight: bold;
+}
